@@ -18,7 +18,7 @@
 </ul>
 
 <p><strong>Tech Stack</strong></p>
-<img src="https://skillicons.dev/icons?i=java,php,opencv,html,css,javascript,bootstrap,mysql,hibernate,mongodb,postman,maven,gradle,idea,visualstudio,vscode,androidstudio,phpstorm,docker,kubernetes,aws,selenium,spring,regex,git,github,githubactions,jenkins,bash,powershell&perline=9" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=java,php,opencv,html,css,javascript,bootstrap,mysql,hibernate,mongodb,postman,maven,gradle,idea,visualstudio,vscode,androidstudio,phpstorm,docker,kubernetes,aws,selenium,spring,regex,git,github,githubactions,jenkins,bash,powershell&perline=7" alt="Tech Stack">
 
 <p><strong>Additionally Skillful in the Use of</strong></p>
 <ul>
