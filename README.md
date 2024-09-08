@@ -4,7 +4,6 @@
 <img width="50%" align="right" alt="Github" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ## :bust_in_silhouette:	About Me
-- :thinking: Open to work.
 - :earth_africa: Fluent in five languages.
 - :seedling: Currently studying cross-platform development.
 - :mailbox_closed: You can reach me here: acristobalgarces@hotmail.com.
@@ -15,7 +14,7 @@
 - :speaking_head:	Translation and Interpretation
 
 ## :hammer_and_wrench: Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,mysql,idea,visualstudio,git,github,bash,powershell)
+![Tech Stack](https://skillicons.dev/icons?i=java,php,opencv,html,css,javascript,bootstrap,mysql,hibernate,mongodb,postman,maven,gradle,idea,visualstudio,vscode,androidstudio,phpstorm,docker,kubernetes,aws,selenium,spring,regex,git,github,githubactions,jenkins,bash,powershell,ps,unity,unreal)
 
 ## :clipboard: Additionally Skillful in the Use of
 - :desktop_computer: Batch, SQL Developer, Trello.
