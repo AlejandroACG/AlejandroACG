@@ -6,7 +6,7 @@
 <p><strong>About Me</strong></p>
 <ul>
   <li>🌍 Fluent in five languages.</li>
-  <li>🌱 Currently studying cross-platform development.</li>
+  <li>🌱 Currently open to work.</li>
   <li>📫 You can reach me here: acristobalgarces@hotmail.com.</li>
 </ul>
 
